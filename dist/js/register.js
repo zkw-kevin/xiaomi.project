@@ -1,0 +1,1 @@
+"use strict";$("p").on("click",function(){$.ajax({url:"",type:"post",data:{number:$(".number").val},dataType:"json"}).then(function(t){200==t.status?location.href="login.html":alert(t.msg)})});

@@ -1,0 +1,1 @@
+"use strict";var info=JSON.parse(localStorage.getItem("info"));info||(alert("您查看的商品不存在"),window.location.href="../pages/list.html");

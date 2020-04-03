@@ -1,0 +1,388 @@
+[
+    {
+        "list_id": 101,
+        "list_name": "米家IH电饭煲 4L 白色",
+        "list_desc":"多才多艺的智能电饭煲",
+        "list_price": 548,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/08e0d3e4-63a8-3de4-107a-f6977321f106.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 102,
+        "list_name": "小米笔记本Pro 15.6 2019款",
+        "list_desc":"i5处理器 新一代独立显卡",
+        "list_price": 4999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153877.70796830.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 103,
+        "list_name": "米家手持无线吸尘器 白色",
+        "list_desc":"除尘除螨黑科技",
+        "list_price": 895,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553825094.62581252.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 104,
+        "list_name": "米家LED吸顶灯 白色",
+        "list_desc":"用光线，还原理想生活",
+        "list_price": 349,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/04d522108145d58ee53b802f28bb6357.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 105,
+        "list_name": "游戏本2019款 i7-9750H ",
+        "list_desc":"性能怪兽 信仰级游戏体验",
+        "list_price": 8999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570689391.53131779.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 106,
+        "list_name": "米家电磁炉C1 黑色 ",
+        "list_desc":"双层聚能线圈，4小时长效定时",
+        "list_price": 108,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571818196.98784695.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 107,
+        "list_name": "米家无线手持擦地机 白色",
+        "list_desc":"全家人都喜欢的擦地机",
+        "list_price": 495,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560324263.44264444.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 108,
+        "list_name": "米家互联网洗烘一体机10Kg 白色",
+        "list_desc":"智能烘干，高效净衣",
+        "list_price": 1999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1545975724.92496169.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 109,
+        "list_name": "RedmiBook 14 锐龙版",
+        "list_desc":"满血锐龙，高性能金属轻薄本",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/318f692b54b277701c7e1a0c16ab93db.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    },
+    {
+        "list_id": 110,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"双核全千兆AC1200路由器",
+        "list_price": 129,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552376822.09637089.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 111,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"十代酷睿更强劲",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566878924.36539833.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 112,
+        "list_name": "空调C1（大1匹/一级能效 ",
+        "list_desc":"变频节能省电，自清洁",
+        "list_price": 1799,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f611ae04c145343ea266df4f54b41f9d.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    },
+    {
+        "list_id": 113,
+        "list_name": "米家IH电饭煲 4L 白色",
+        "list_desc":"多才多艺的智能电饭煲",
+        "list_price": 548,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/08e0d3e4-63a8-3de4-107a-f6977321f106.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 114,
+        "list_name": "小米笔记本Pro 15.6 2019款",
+        "list_desc":"i5处理器 新一代独立显卡",
+        "list_price": 4999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153877.70796830.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 115,
+        "list_name": "米家手持无线吸尘器 白色",
+        "list_desc":"除尘除螨黑科技",
+        "list_price": 895,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553825094.62581252.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 116,
+        "list_name": "米家LED吸顶灯 白色",
+        "list_desc":"用光线，还原理想生活",
+        "list_price": 349,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/04d522108145d58ee53b802f28bb6357.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 117,
+        "list_name": "游戏本2019款 i7-9750H ",
+        "list_desc":"性能怪兽 信仰级游戏体验",
+        "list_price": 8999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570689391.53131779.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 118,
+        "list_name": "米家电磁炉C1 黑色 ",
+        "list_desc":"双层聚能线圈，4小时长效定时",
+        "list_price": 108,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571818196.98784695.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 119,
+        "list_name": "米家无线手持擦地机 白色",
+        "list_desc":"全家人都喜欢的擦地机",
+        "list_price": 495,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560324263.44264444.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 120,
+        "list_name": "米家互联网洗烘一体机10Kg 白色",
+        "list_desc":"智能烘干，高效净衣",
+        "list_price": 1999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1545975724.92496169.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 121,
+        "list_name": "RedmiBook 14 锐龙版",
+        "list_desc":"满血锐龙，高性能金属轻薄本",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/318f692b54b277701c7e1a0c16ab93db.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    },
+    {
+        "list_id": 122,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"双核全千兆AC1200路由器",
+        "list_price": 129,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552376822.09637089.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 123,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"十代酷睿更强劲",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566878924.36539833.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 124,
+        "list_name": "空调C1（大1匹/一级能效 ",
+        "list_desc":"变频节能省电，自清洁",
+        "list_price": 1799,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f611ae04c145343ea266df4f54b41f9d.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    },
+    {
+        "list_id": 125,
+        "list_name": "米家IH电饭煲 4L 白色",
+        "list_desc":"多才多艺的智能电饭煲",
+        "list_price": 548,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/08e0d3e4-63a8-3de4-107a-f6977321f106.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 126,
+        "list_name": "小米笔记本Pro 15.6 2019款",
+        "list_desc":"i5处理器 新一代独立显卡",
+        "list_price": 4999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153877.70796830.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 127,
+        "list_name": "米家手持无线吸尘器 白色",
+        "list_desc":"除尘除螨黑科技",
+        "list_price": 895,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553825094.62581252.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 128,
+        "list_name": "米家LED吸顶灯 白色",
+        "list_desc":"用光线，还原理想生活",
+        "list_price": 349,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/04d522108145d58ee53b802f28bb6357.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 129,
+        "list_name": "游戏本2019款 i7-9750H ",
+        "list_desc":"性能怪兽 信仰级游戏体验",
+        "list_price": 8999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570689391.53131779.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 130,
+        "list_name": "米家电磁炉C1 黑色 ",
+        "list_desc":"双层聚能线圈，4小时长效定时",
+        "list_price": 108,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571818196.98784695.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 131,
+        "list_name": "米家无线手持擦地机 白色",
+        "list_desc":"全家人都喜欢的擦地机",
+        "list_price": 495,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560324263.44264444.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 132,
+        "list_name": "米家互联网洗烘一体机10Kg 白色",
+        "list_desc":"智能烘干，高效净衣",
+        "list_price": 1999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1545975724.92496169.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 133,
+        "list_name": "RedmiBook 14 锐龙版",
+        "list_desc":"满血锐龙，高性能金属轻薄本",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/318f692b54b277701c7e1a0c16ab93db.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    },
+    {
+        "list_id": 134,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"双核全千兆AC1200路由器",
+        "list_price": 129,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552376822.09637089.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 135,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"十代酷睿更强劲",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566878924.36539833.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 136,
+        "list_name": "空调C1（大1匹/一级能效 ",
+        "list_desc":"变频节能省电，自清洁",
+        "list_price": 1799,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f611ae04c145343ea266df4f54b41f9d.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    },
+    {
+        "list_id": 137,
+        "list_name": "米家IH电饭煲 4L 白色",
+        "list_desc":"多才多艺的智能电饭煲",
+        "list_price": 548,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-miapp-a1/08e0d3e4-63a8-3de4-107a-f6977321f106.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 138,
+        "list_name": "小米笔记本Pro 15.6 2019款",
+        "list_desc":"i5处理器 新一代独立显卡",
+        "list_price": 4999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553153877.70796830.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 139,
+        "list_name": "米家手持无线吸尘器 白色",
+        "list_desc":"除尘除螨黑科技",
+        "list_price": 895,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1553825094.62581252.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 140,
+        "list_name": "米家LED吸顶灯 白色",
+        "list_desc":"用光线，还原理想生活",
+        "list_price": 349,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/04d522108145d58ee53b802f28bb6357.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 141,
+        "list_name": "游戏本2019款 i7-9750H ",
+        "list_desc":"性能怪兽 信仰级游戏体验",
+        "list_price": 8999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1570689391.53131779.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 142,
+        "list_name": "米家电磁炉C1 黑色 ",
+        "list_desc":"双层聚能线圈，4小时长效定时",
+        "list_price": 108,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1571818196.98784695.jpg?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 143,
+        "list_name": "米家无线手持擦地机 白色",
+        "list_desc":"全家人都喜欢的擦地机",
+        "list_price": 495,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1560324263.44264444.png?thumb=1&amp;w=200&amp;h=200"
+    },
+    {
+        "list_id": 144,
+        "list_name": "米家互联网洗烘一体机10Kg 白色",
+        "list_desc":"智能烘干，高效净衣",
+        "list_price": 1999,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1545975724.92496169.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 145,
+        "list_name": "RedmiBook 14 锐龙版",
+        "list_desc":"满血锐龙，高性能金属轻薄本",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/318f692b54b277701c7e1a0c16ab93db.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    },
+    {
+        "list_id": 146,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"双核全千兆AC1200路由器",
+        "list_price": 129,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1552376822.09637089.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 147,
+        "list_name": "小米路由器4A千兆版",
+        "list_desc":"十代酷睿更强劲",
+        "list_price": 4299,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1566878924.36539833.jpg?thumb=1&w=200&h=200"
+    },
+    {
+        "list_id": 148,
+        "list_name": "空调C1（大1匹/一级能效 ",
+        "list_desc":"变频节能省电，自清洁",
+        "list_price": 1799,
+        "list_gwc":"去购买",
+        "list_url":"//cdn.cnbj1.fds.api.mi-img.com/mi-mall/f611ae04c145343ea266df4f54b41f9d.jpg?thumb=1&w=200&h=200&f=webp&q=90"
+    }
+
+
+]
