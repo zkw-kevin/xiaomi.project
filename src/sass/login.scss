@@ -1,0 +1,72 @@
+/*重置样式*/
+*{margin: 0;padding: 0;}
+li{list-style: none;}
+a{text-decoration: none;}
+
+/*公共样式*/
+.wrapper{width: 1000px;margin: 0 auto;}
+
+.header{
+    background:url(../images/logo-footer.png) no-repeat 0px 40px;
+    height: 100px;
+    overflow: hidden;
+    p{
+        padding-left: 80px;
+        &:nth-of-type(1){
+            font-size: 34px;
+            margin-top: 35px;
+        }
+        &:nth-of-type(2){
+            font-size: 12px;
+        }
+    }
+}
+
+#main{
+    height: 500px;
+    background: url(../images/a2.jpg)no-repeat;
+    background-size: 100%;
+    position: relative;
+    margin-top: 25px;
+}
+
+.main{
+    width: 350px;
+    height: 500px;
+    margin-left: 800px;
+    z-index: 10;
+    overflow: hidden;
+    form{
+        background-color: #fff;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-top: 60px;
+        padding: 20px 0 ;
+        span {
+            position: absolute;
+            top: 200px;
+            color: red;
+            display: none;
+        }
+        input{
+            width: 250px;
+            height: 30px;
+            margin-top: 10px;
+            cursor: pointer;
+        }
+        button{
+            width: 250px;
+            height: 30px;
+            background-color: orangered;
+            border: 0;
+            margin-top: 50px;
+            color:#fff;
+        }
+    }
+}
+
+
+
+
+
